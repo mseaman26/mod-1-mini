@@ -1,0 +1,64 @@
+:root{
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+    margin: 0;
+    height: 200vh;
+    font-family: sans-serif;
+}
+
+header{
+    background-color: aqua;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+h1{
+    text-align: center;
+    width: 50%;
+    margin-top: 20px;
+    padding: 0;
+    display: inline-block;
+}
+ul{
+    width: fit-content;
+    position:  relative;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    list-style-type: none;
+}
+li{
+    display: inline;
+}
+.nav_link{
+    margin-inline: 20px;
+}
+#image_section{
+    padding-top: 100px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+#form_section{
+}
+
+form{
+    width: fit-content;
+    margin: auto;
+}
+label{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
